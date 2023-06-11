@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	<title>Sinyaman - Simpayjaya </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="Sinyaman%20-%20Simpayjaya_files/bootstrap.css">
+	<script src="Sinyaman%20-%20Simpayjaya_files/jquery_002.js"></script>
+	<script src="Sinyaman%20-%20Simpayjaya_files/bootstrap.js"></script>
+	<link href="Sinyaman%20-%20Simpayjaya_files/styles.css" rel="stylesheet" type="text/css">
+	<link href="Sinyaman%20-%20Simpayjaya_files/surat.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="Sinyaman%20-%20Simpayjaya_files/surat_cetak.css" rel="stylesheet" type="text/css" media="print">
+	<link rel="icon" href="https://www.sinyaman-dinsosku.kuningankab.go.id/images/logo2.1.png" type="image/gif" sizes="20x20">
+	<link rel="stylesheet" type="text/css" href="Sinyaman%20-%20Simpayjaya_files/jquery-ui-1.html">
+	<link href="Sinyaman%20-%20Simpayjaya_files/font-awesome.css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com/">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+	<link href="Sinyaman%20-%20Simpayjaya_files/css2.css" rel="stylesheet">
+	<link href="Sinyaman%20-%20Simpayjaya_files/css.css" rel="stylesheet">
+	<script type="text/javascript" src="Sinyaman%20-%20Simpayjaya_files/jquery-1.html"></script>
+	<script type="text/javascript" src="Sinyaman%20-%20Simpayjaya_files/jquery-ui-1_002.html"></script>
+	<script type="text/javascript" src="Sinyaman%20-%20Simpayjaya_files/loader.js"></script>
+	<script src="Sinyaman%20-%20Simpayjaya_files/script.html"></script>
+
+</head>
+
+<body>
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<div class="navbar-header">
+
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+
+				<a class="navbar-brand" href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php"><img src="Sinyaman%20-%20Simpayjaya_files/logo1.png"></a>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav navbar-right">
+											<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Form Permohonan <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/reaktivasi_pbi/form">Reaktivasi PBI JK DTKS</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/dtks/permohonan_form">Surat Keterangan Terdaftar DTKS</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/skm/permohonan_form">Surat Keterangan Miskin</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekomendasi_pa/permohonan_form">Surat Rekomendasi Keringanan Biaya PA</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekomendasi_kip/permohonan_form">Surat Rekomendasi KIP</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/umum/permohonan_form">Jamkesda (umum)</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/persalinan/permohonan_form">Jamkesda (persalinan)</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/bayi/permohonan_form">Jamkesda (bayi)</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Permohonan Terverifikasi <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/reaktivasi_pbi/view_verifikasi">Reaktivasi PBI JK DTKS</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/dtks/verifikasi_view">Surat Keterangan Terdaftar DTKS</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/skm/verifikasi_view">Surat Keterangan Miskin</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekomendasi_pa/verifikasi_view">Surat Rekomendasi Keringanan Biaya PA</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekomendasi_kip/verifikasi_view">Surat Rekomendasi KIP</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/umum/verifikasi_view">Jamkesda (umum)</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/persalinan/verifikasi_view">Jamkesda (persalinan)</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/bayi/verifikasi_view">Jamkesda (bayi)</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Permohonan Selesai <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/reaktivasi_pbi/tte_view">Reaktivasi PBI JK DTKS</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/dtks/tte_view">Surat Keterangan Terdaftar DTKS</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/skm/tte_view">Surat Keterangan Miskin</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekomendasi_pa/tte_view">Surat Rekomendasi Keringanan Biaya PA</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekomendasi_kip/tte_view">Surat Rekomendasi KIP</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/umum/tte_view">Jamkesda (umum)</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/persalinan/tte_view">Jamkesda (persalinan)</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/bayi/tte_view">Jamkesda (bayi)</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekap">Rekap</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Permohonan Ditolak <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/reaktivasi_pbi/penolakan_view">Reaktivasi PBI JK DTKS</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/dtks/penolakan_view">Surat Keterangan Terdaftar DTKS</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/skm/penolakan_view">Surat Keterangan Miskin</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekomendasi_pa/penolakan_view">Surat Rekomendasi Keringanan Biaya PA</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/rekomendasi_kip/penolakan_view">Surat Rekomendasi KIP</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=surat/jamkesda/umum/penolakan_view">Jamkesda</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Data Kematian <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=data/kematian/form">Form Data Kematian</a></li>
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=data/kematian/laporan">Laporan Data Kematian</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Pengaturan <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/index.php?data=password_edit"><i class="fa fa-unlock" aria-hidden="true"></i> Ganti Password</a></li>
+							</ul>
+						</li>
+										<a href="https://www.sinyaman-dinsosku.kuningankab.go.id/file/logout.php"><button class="btn btn-danger navbar-btn"><i class="fa fa-sign-out" aria-hidden="true"></i> Keluar</button></a>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="container">
+		
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h4 align="center">Form Permohonan Rekomendasi Permohonan JAMKESDA (Persalinan)</h4>
+    </div>
+    <div class="panel-body">
+        <div class="well well-lg">
+            <div class="form-group">
+                <form id="form" name="form" method="post" action="index.php?data=surat/jamkesda/persalinan/permohonan_save" enctype="multipart/form-data">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label>NIK</label>
+                            <input type="text" name="nik" class="form-control" placeholder="NIK" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required="" autofocus="" value=" "><br>
+                            <label>Nama</label>
+                            <input type="text" name="nama" class="form-control" placeholder="Nama" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>Tempat, Tanggal Lahir</label>
+                            <input type="text" name="ttl" class="form-control" placeholder="Tempat, Tanggal Lahir" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>Jenis Kelamin</label>
+                            <input type="text" name="jenis_kelamin" class="form-control" placeholder="Jenis Kelamin" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>Alamat</label>
+                            <input type="text" name="alamat" class="form-control" placeholder="Alamat" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>No KK</label>
+                            <input type="text" name="no_kk" class="form-control" placeholder="No KK" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>Nama Kepala Keluarga</label>
+                            <input type="text" name="nama_kk" class="form-control" placeholder="Nama Kepala Keluarga" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                                                            <label>Desa</label>
+                                <input type="text" name="desa" class="form-control" value="Simpayjaya" readonly="readonly"><br>
+                                <label>Kecamatan</label>
+                                <input type="text" name="kecamatan" class="form-control" value="Karangkancana" readonly="readonly"><br>
+                                                        <label>Tanggal</label>
+                            <input type="date" name="tanggal_permohonan" class="form-control" value="2022-04-25" readonly="readonly"><br>
+                        </div>
+                        <div class="col-md-6">
+                            <label>No Surat Rujukan Puskesmas</label>
+                            <input type="text" name="surat_rujukan" class="form-control" placeholder="No Surat Rujukan Puskesmas" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>No Surat Keterangan Dirawat Dari Rumah Sakit</label>
+                            <input type="text" name="sk_dirawat" class="form-control" placeholder="No Surat Keterangan Dirawat Dari Rumah Sakit" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>No Surat Keterangan Miskin Dari Desa</label>
+                            <input type="text" name="skm_desa" class="form-control" placeholder="No Surat Keterangan Miskin Dari Desa" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>No Surat Keterangan Miskin Dari Dinas Sosial</label>
+                            <input type="text" name="skm_dinsos" class="form-control" placeholder="No Surat Keterangan Miskin Dari Dinas Sosial" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>No Surat Keterangan Pekerjaan Jika Selain Buruh Dari Desa</label>
+                            <input type="text" name="sk_pekerjaan" class="form-control" placeholder="No Surat Keterangan Pekerjaan Jika Selain Buruh Dari Desa" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>Nama Rumah Sakit Rujukan</label>
+                            <select name="nama_rs" class="form-control">
+                                <option selected="selected">RSUD 45 Kuningan</option>
+                                <option>RSUD Linggajati Kuningan</option>
+                                <option>RS Juanda Kuningan</option>
+                                <option>RS El-Syifa Kuningan</option>
+                                <option>RS Kuningan Medical Center</option>
+                                <option>RS KMC Luragung</option>
+                                <option>RS Sekar Kamulyan Cigugur Kuningan</option>
+                                <option>RS Jantung Hasna Medika</option>
+                                <option>RS Arya Kamuning</option>
+                                <option>RS Wijaya Kusumah Kuningan</option>
+                                <option>RS Permata Kuningan</option>
+                                <option>RS Mitra Husada Ciawi</option>
+                            </select><br>
+                            <label>Scan Picare Puskesmas</label>
+                            <input type="file" name="picare" class="form-control" accept=".jpg,.png" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>Scan Buku KIA (lembar pemerikasaan)</label>
+                            <input type="file" name="kia" class="form-control" accept=".jpg,.png" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>Scan Partograf</label>
+                            <input type="file" name="partograf" class="form-control" accept=".jpg,.png" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                            <label>Scan MKJP</label>
+                            <input type="file" name="mkjp" class="form-control" accept=".jpg,.png" oninvalid="this.setCustomValidity('Harus di isi .. !')" oninput="setCustomValidity('')" required=""><br>
+                        </div>
+                    </div>
+                    <input type="hidden" name="jam_permohonan" class="form-control" value="12:27:41" readonly="readonly">
+                    <input type="hidden" name="input" class="form-control" value="desa" readonly="readonly">
+                    <center>
+                        <input type="submit" class="btn btn-primary" value="Kirim">
+                    </center>
+                </form>
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+<footer>
+	<p class="text-center"><br>
+		� Copyright 2023 - Kasi Pelayanan
+	</p>
+</footer>
+
+
+
+
+<script src="Sinyaman%20-%20Simpayjaya_files/jquery.js"></script>
+<script>
+	$('document').ready(function() {
+		setInterval(function() {
+			getData()
+		}, 10000); // panggil setiap 10 detik
+	});
+
+
+	function getData() {
+		$.ajax({
+			url: "count.php",
+			type: "GET",
+			success: function(data) {
+				var json = data,
+					obj = JSON.parse(json);
+				$('#data_pbi').html(obj.data_pbi);
+				$('#data_dtks').html(obj.data_dtks);
+				$('#data_skm').html(obj.data_skm);
+				$('#data_rekomendasi_pa').html(obj.data_rekomendasi_pa);
+				$('#data_rekomendasi_kip').html(obj.data_rekomendasi_kip);
+				$('#data_pbi_desa').html(obj.data_pbi_desa);
+				$('#data_dtks_desa').html(obj.data_dtks_desa);
+				$('#data_skm_desa').html(obj.data_skm_desa);
+				$('#data_rekomendasi_pa_desa').html(obj.data_rekomendasi_pa_desa);
+				$('#data_rekomendasi_kip_desa').html(obj.data_rekomendasi_kip_desa);
+				$('#data_jamkesda').html(obj.data_jamkesda);
+				$('#data_jamkesda_persalinan').html(obj.data_jamkesda_persalinan);
+				$('#data_jamkesda_bayi').html(obj.data_jamkesda_bayi);
+				$('#data_jamkesda_desa').html(obj.data_jamkesda_desa);
+				$('#data_jamkesda_persalinan_desa').html(obj.data_jamkesda_persalinan_desa);
+				$('#data_jamkesda_bayi_desa').html(obj.data_jamkesda_bayi_desa);
+			}
+		})
+	};
+</script></body></html>
